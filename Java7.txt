@@ -1,0 +1,5 @@
+-Multiple Catch
+	try{
+	}catch(FileNotFoundException | HDOMParseExceptin e){
+		e.printStackTrace(); 
+	}

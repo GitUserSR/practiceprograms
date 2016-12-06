@@ -1,0 +1,1 @@
+IF-402 - extended spring's form tag to append the token to the form action so we will always maintain the token in the url even after validation or errors are displayed
