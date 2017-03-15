@@ -3,10 +3,10 @@ package lang.thread;
 /**
  * Created by srapolu on 2/17/17.
  */
-public class TestOverrideAndOverloadRunMethod{
+public class OverrideAndOverloadRunMethodTest{
     public static void main(String[] args) {
-        Thread thread = new OverrideAndOverloadRunMethodThread();
-        thread.start();
+        Thread myThread = new OverrideAndOverloadRunMethodThread();
+        myThread.start();
     }
 }
 class OverrideAndOverloadRunMethodThread extends Thread{
