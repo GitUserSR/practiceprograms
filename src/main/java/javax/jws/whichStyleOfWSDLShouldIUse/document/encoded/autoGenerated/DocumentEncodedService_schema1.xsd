@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" targetNamespace="http://encoded.document.whichStyleOfWSDLShouldIUse.jws.javax/" xmlns:tns="http://encoded.document.whichStyleOfWSDLShouldIUse.jws.javax/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="myMethod" type="tns:myMethod"/>
+
+  <xs:element name="myMethodResponse" type="tns:myMethodResponse"/>
+
+  <xs:complexType name="myMethod">
+    <xs:sequence>
+      <xs:element name="arg0" type="xs:int"/>
+      <xs:element name="arg1" type="xs:float"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="myMethodResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:int"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
+

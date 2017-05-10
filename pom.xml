@@ -95,23 +95,23 @@
 
 
 		<!-- apache cxf-start -->
-		<dependency>
-			<groupId>org.apache.cxf</groupId>
-			<artifactId>cxf-rt-frontend-jaxws</artifactId>
-			<version>${cxf.version}</version>
-		</dependency>
+		<!--<dependency>-->
+			<!--<groupId>org.apache.cxf</groupId>-->
+			<!--<artifactId>cxf-rt-frontend-jaxws</artifactId>-->
+			<!--<version>${cxf.version}</version>-->
+		<!--</dependency>-->
 
-		<dependency>
-			<groupId>org.apache.cxf</groupId>
-			<artifactId>cxf-rt-frontend-jaxrs</artifactId>
-			<version>${cxf.version}</version>
-		</dependency>
+		<!--<dependency>-->
+			<!--<groupId>org.apache.cxf</groupId>-->
+			<!--<artifactId>cxf-rt-frontend-jaxrs</artifactId>-->
+			<!--<version>${cxf.version}</version>-->
+		<!--</dependency>-->
 
-		<dependency>
-			<groupId>org.apache.cxf</groupId>
-			<artifactId>cxf-rt-transports-http</artifactId>
-			<version>${cxf.version}</version>
-		</dependency>
+		<!--<dependency>-->
+			<!--<groupId>org.apache.cxf</groupId>-->
+			<!--<artifactId>cxf-rt-transports-http</artifactId>-->
+			<!--<version>${cxf.version}</version>-->
+		<!--</dependency>-->
 		<!-- apache cxf-end -->
 
 	</dependencies>
@@ -129,23 +129,31 @@
 			</plugin>
 
 			<!-- plugin to generate a wsdl from defined interface -->
-			<plugin>
-				<groupId>org.apache.axis2</groupId>
-				<artifactId>axis2-java2wsdl-maven-plugin</artifactId>
-				<version>1.5.4</version>
-				<configuration>
-					<className>javax.jws.java2wsdl.FirstService</className>
-					<outputFileName>/Users/srapolu/Documents/Work/LocalSetup/IntelliJWS/PracticePrograms/src/main/java/javax/jws/java2wsdl/FirstService.wsdl</outputFileName>
-				</configuration>
-				<executions>
-					<execution>
-						<phase>process-classes</phase>
-						<goals>
-							<goal>java2wsdl</goal>
-						</goals>
-					</execution>
-				</executions>
-			</plugin>
+			<!--<plugin>-->
+				<!--<groupId>org.apache.axis2</groupId>-->
+				<!--<artifactId>axis2-java2wsdl-maven-plugin</artifactId>-->
+				<!--<version>1.5.4</version>-->
+				<!--<configuration>-->
+					<!--&lt;!&ndash;-->
+					<!--<className>javax.jws.java2wsdl.FirstService</className>-->
+					<!--<outputFileName>/Users/srapolu/Documents/Work/LocalSetup/IntelliJWS/PracticePrograms/src/main/java/javax/jws/java2wsdl/FirstService.wsdl</outputFileName>-->
+					<!--&ndash;&gt;-->
+					<!--&lt;!&ndash;-->
+					<!--<className>javax.jws.whichStyleOfWSDLShouldIUse.document.encoded.DocumentEncoded</className>-->
+					<!--<outputFileName>/Users/srapolu/Documents/Work/LocalSetup/IntelliJWS/PracticePrograms/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/document/encoded/autoGeneartedWithJava2WsdlPlugin/DocumentEncoded.wsdl</outputFileName>-->
+					<!--&ndash;&gt;-->
+					<!--<className>javax.jws.whichStyleOfWSDLShouldIUse.document.encoded.DocumentEncoded</className>-->
+					<!--<outputFileName>/Users/srapolu/Documents/Work/LocalSetup/IntelliJWS/PracticePrograms/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/document/encoded/autoGeneartedWithJava2WsdlPlugin/DocumentEncoded.wsdl</outputFileName>-->
+				<!--</configuration>-->
+				<!--<executions>-->
+					<!--<execution>-->
+						<!--<phase>process-classes</phase>-->
+						<!--<goals>-->
+							<!--<goal>java2wsdl</goal>-->
+						<!--</goals>-->
+					<!--</execution>-->
+				<!--</executions>-->
+			<!--</plugin>-->
 		</plugins>
 	</build>
 
