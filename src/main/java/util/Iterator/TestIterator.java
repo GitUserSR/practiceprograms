@@ -13,6 +13,7 @@ import java.util.List;
 public class TestIterator {
 
     public static void main(String args[]){
+        /*
         Student student1 = new Student();
         student1.setName("Swathi");
         Student student2 = new Student();
@@ -30,6 +31,7 @@ public class TestIterator {
 
         System.out.println(students.get(1).getAddress());
 
+    */
     }
 
 }
