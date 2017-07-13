@@ -119,6 +119,13 @@
 		<!--</dependency>-->
 		<!-- apache cxf-end -->
 
+		<!-- https://mvnrepository.com/artifact/org.apache.tomcat/catalina for LearnSHA.java : HexUtils.java class -->
+		<dependency>
+			<groupId>org.apache.tomcat</groupId>
+			<artifactId>catalina</artifactId>
+			<version>6.0.45</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
