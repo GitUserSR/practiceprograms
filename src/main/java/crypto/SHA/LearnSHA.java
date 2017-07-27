@@ -14,10 +14,10 @@ public class LearnSHA {
 
     public static  void main(String args[]) throws UnsupportedEncodingException, NoSuchAlgorithmException {
         byte[] salt ={2, 35, 0, 58, 70, 113, 59, 94};
-        String encryptedPassword = encryptPassword("anonymous", "SHA-512", salt);
+        String encryptedPassword = encryptPassword("admin", "SHA-512", salt);
         System.out.println("encryptedPassword = " + encryptedPassword);
 
-        String encryptedPasswordinCAPS = encryptPassword("ANONYMOUS", "SHA-512", salt);
+        String encryptedPasswordinCAPS = encryptPassword("admin", "SHA-512", salt);
         System.out.println("encryptedPasswordinCAPS = " + encryptedPasswordinCAPS);
 
     }
@@ -46,6 +46,6 @@ public class LearnSHA {
        }
 
        public static String decryptPassword(){
-
+            return null;
        }
 }
