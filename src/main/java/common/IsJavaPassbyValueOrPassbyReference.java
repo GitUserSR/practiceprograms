@@ -1,3 +1,5 @@
+package common;
+
 /**
  * Java does manipulate the objects by references, and all object variables are references. However, java dosen't pass method arguments by reference; it passes by value.
  * public void badSwap(int var1, int var2){

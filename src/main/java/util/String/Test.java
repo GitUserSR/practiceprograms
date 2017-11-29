@@ -1,5 +1,7 @@
 package util.String;
 
+import model.Person;
+
 import java.util.Date;
 
 /**
@@ -13,6 +15,11 @@ public class Test {
         System.out.println(Str.startsWith("Accela Custom Portlet") );
         Object str = null;
         System.out.print((Date)str);
+
+
+        Object personObject = new Person("name", 10, "address", "gender");
+        Person person = (Person) personObject;
+
     }
 }
 

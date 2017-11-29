@@ -1,5 +1,5 @@
 
-package javax.jws.java2wsdl.jaxws;
+package javax.jws.java2wsdl.javax.jws.java2wsdl.jaxws;
 
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
