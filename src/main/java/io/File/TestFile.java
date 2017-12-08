@@ -8,8 +8,6 @@ import java.io.IOException;
  */
 public class TestFile {
     public static void main(String[] args) throws IOException {
-        String s = null;
-        Integer.valueOf(s);
         File file = new File(".");
         String fileName = file.getCanonicalPath();
         System.out.println(fileName);
