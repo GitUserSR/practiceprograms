@@ -66,7 +66,7 @@ public class Hw5 {
 		return isPalindrome;
 	}
 	
-	private static int[] reverseArray(int[] intArray){
+	public static int[] reverseArray(int[] intArray){
 		int size = intArray.length;
 		int[] intArrayReverse = new int[size];		
 		for(int i=0; i<intArray.length; i++){
