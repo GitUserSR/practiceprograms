@@ -6,6 +6,9 @@ import java.util.List;
 public class SimpleNullCheck {
 
 	public static void main(String args[]){
+		System.out.println(Boolean.compare(true, true));
+		System.out.println(Boolean.compare(true, false));
+		
 		byte[] b = {};
 		String s = new String(b);
 		

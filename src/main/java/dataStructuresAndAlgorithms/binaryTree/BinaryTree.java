@@ -6,15 +6,26 @@ public class BinaryTree {
 	
 	public static void main(String arg[]) {
 		BinaryTree binaryTree = new BinaryTree();
+		/*
 		binaryTree.addNode(0, "Zero");
 		binaryTree.addNode(1, "One");
 		binaryTree.addNode(2, "Two");
 		binaryTree.addNode(3, "Three");
 		binaryTree.addNode(4, "Four");
 		binaryTree.addNode(5, "Five");
+		*/
+		
+		binaryTree.addNode(50,"Boss");
+		binaryTree.addNode(25,"Vice Pres");
+		binaryTree.addNode(15,"Office Manager");
+		binaryTree.addNode(30,"Secretary");
+		binaryTree.addNode(75,"Sales Manager");
+		binaryTree.addNode(85,"Sales Man1");
 		
 		inOrderTraversal(binaryTree.root);
+		System.out.println();
 		preOrderTraversal(binaryTree.root);
+		System.out.println();
 		postOrderTraversal(binaryTree.root);
 	}
 	
