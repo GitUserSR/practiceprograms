@@ -99,6 +99,10 @@ class Node{
 		this.name = name;
 	}
 	
+	Node(int key){
+		this.key = key;
+	}
+	
 	public String toString() {
 		return name + " has a key  " + key;
 	}
