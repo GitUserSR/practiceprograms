@@ -1,164 +1,231 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b44b0bd-27be-4da0-802c-95644e94470b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/src/selenium/GlassDoorInfoReadAutomator.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/test/TestDate.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/io/File/TestFile.class" afterPath="$PROJECT_DIR$/target/classes/io/File/TestFile.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/io/File/TestFile.java" afterPath="$PROJECT_DIR$/src/main/java/io/File/TestFile.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/model/Person.java" afterPath="$PROJECT_DIR$/src/main/java/model/Person.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/model/Student.java" afterPath="$PROJECT_DIR$/src/main/java/model/Student.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/util/String/Test.java" afterPath="$PROJECT_DIR$/src/main/java/util/String/Test.java" />
+    <list default="true" id="a6080863-6f95-4a57-a56e-c9ba83097f45" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/delete .txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/easy/BigIntSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/easy/Isomorphic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/easy/LongestSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/easy/NonDecreasing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/easy/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/easy/ThirdMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/primitivesAndCasting/Precision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/749d56c8-cc7d-44ea-bb36-3ef44af87de4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mail_1_4_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_3_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_platform_3_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_annotations_api_6_0_45.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_catalina_6_0_45.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_coyote_6_0_45.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_juli_6_0_45.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_servlet_api_6_0_45.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20080701.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_41_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_35_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_35_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_41_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/17.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/org/w3c/dom/dom1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/testing/resources/IEDriverServer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/testing/resources/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/utilities/resources/system.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceprograms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dataStructuresAndAlgorithms/binaryTree/PrintAllPathFromRootToLeaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dataStructuresAndAlgorithms/binaryTree/PrintAllPathFromRootToLeaf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dataStructuresAndAlgorithms/graphs/dreamcode/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dataStructuresAndAlgorithms/graphs/dreamcode/Edge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dataStructuresAndAlgorithms/graphs/dreamcode/Vertex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dataStructuresAndAlgorithms/graphs/dreamcode/Vertex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/easy/LemonadeChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/easy/LemonadeChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/easy/RemoveLinkedListElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/easy/RemoveLinkedListElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/medium/ConstructBinaryTreeFromArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/medium/ConstructBinaryTreeFromArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/medium/MinDominoRotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/medium/MinDominoRotations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/medium/StonesRemoved.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/medium/StonesRemoved.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/UserInputUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/UserInputUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/acessModifiers/AccessModifiers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/acessModifiers/AccessModifiers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/autoboxing/DoubledoubleNPE.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/autoboxing/DoubledoubleNPE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/binaryTree/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/binaryTree/BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/binaryTree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/binaryTree/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bitwiseOperators/BitDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bitwiseOperators/BitDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bitwiseOperators/byteUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bitwiseOperators/byteUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/brainteasers/Sudoku.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/brainteasers/Sudoku.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/changeIPAndPCName/ChangeIPAndPCName.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/changeIPAndPCName/ChangeIPAndPCName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/common/CommaSperatedInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/common/CommaSperatedInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/common/HowManyWaysToCreateAnObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/common/HowManyWaysToCreateAnObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/common/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/common/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/common/TestClone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/common/TestClone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/common/TestEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/common/TestEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/common/TestSerializable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/common/TestSerializable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/common/switchStatement/SwitchDemoFallThrough.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/common/switchStatement/SwitchDemoFallThrough.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/crypto/SHA/LearnSHA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/crypto/SHA/LearnSHA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/crypto/md5/MD5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/crypto/md5/MD5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/crypto/md5/SHAHashingExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/crypto/md5/SHAHashingExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructuresAndAlgorithms/BinarySearchTree/ConvertSortedArrayToBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dataStructuresAndAlgorithms/BinarySearchTree/ConvertSortedArrayToBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructuresAndAlgorithms/peakFinding/PeakFinding.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dataStructuresAndAlgorithms/peakFinding/PeakFinding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructuresAndAlgorithms/sorting/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dataStructuresAndAlgorithms/sorting/InsertionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataStructuresAndAlgorithms/sorting/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dataStructuresAndAlgorithms/sorting/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/database/mongodb/MongoClientTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/database/mongodb/MongoClientTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designPatterns/BuilderPatternAndTelescopingConstructor/Pizza$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/designPatterns/BuilderPatternAndTelescopingConstructor/Pizza$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designPatterns/BuilderPatternAndTelescopingConstructor/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/designPatterns/BuilderPatternAndTelescopingConstructor/Pizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designPatterns/BuilderPatternAndTelescopingConstructor/TelescopingConstrctor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/designPatterns/BuilderPatternAndTelescopingConstructor/TelescopingConstrctor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/encoding/CharacterEncodingExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/encoding/CharacterEncodingExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/encoding/TestEncodeAndDecode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/encoding/TestEncodeAndDecode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/generics/Generics.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/generics/Generics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/googlePuzzlers/SetPuzzler1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/googlePuzzlers/SetPuzzler1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interfaces/java8IntefaceFeatures/TimeClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interfaces/java8IntefaceFeatures/TimeClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interfaces/java8IntefaceFeatures/java8InterfaceFeatures.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interfaces/java8IntefaceFeatures/java8InterfaceFeatures.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interviewQuestions/Barclays$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviewQuestions/Barclays$A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interviewQuestions/Barclays$B.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviewQuestions/Barclays$B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interviewQuestions/Barclays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviewQuestions/Barclays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interviewQuestions/Threading$Mythread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviewQuestions/Threading$Mythread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interviewQuestions/Threading.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interviewQuestions/Threading.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/File/TestFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/File/TestFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javax/SAXParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javax/SAXParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javax/jws/jAXWSAttachmentWithMTOM/JAXWSAttachmentWithMTOM.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javax/jws/jAXWSAttachmentWithMTOM/JAXWSAttachmentWithMTOM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javax/jws/jAXWSAttachmentWithMTOM/mkyong/ImageClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javax/jws/jAXWSAttachmentWithMTOM/mkyong/ImageClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javax/jws/jAXWSAttachmentWithMTOM/mkyong/ImagePublisher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javax/jws/jAXWSAttachmentWithMTOM/mkyong/ImagePublisher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javax/jws/jAXWSAttachmentWithMTOM/mkyong/ImageServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javax/jws/jAXWSAttachmentWithMTOM/mkyong/ImageServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javax/jws/jAXWSAttachmentWithMTOM/mkyong/ImageServerImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javax/jws/jAXWSAttachmentWithMTOM/mkyong/ImageServerImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javax/jws/java2wsdl/FirstService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javax/jws/java2wsdl/FirstService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javax/jws/whichStyleOfWSDLShouldIUse/document/encoded/DocumentEncoded.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javax/jws/whichStyleOfWSDLShouldIUse/document/encoded/DocumentEncoded.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javax/jws/whichStyleOfWSDLShouldIUse/document/literal/DocumentLiteral.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javax/jws/whichStyleOfWSDLShouldIUse/document/literal/DocumentLiteral.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javax/jws/whichStyleOfWSDLShouldIUse/rpc/encoded/RPCEncoded.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javax/jws/whichStyleOfWSDLShouldIUse/rpc/encoded/RPCEncoded.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javax/jws/whichStyleOfWSDLShouldIUse/rpc/literal/RPCLiteral.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javax/jws/whichStyleOfWSDLShouldIUse/rpc/literal/RPCLiteral.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javax/mail/WebEmailUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javax/mail/WebEmailUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/json/ConsolePages.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/json/ConsolePages.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/json/ConsolePagesPortlets.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/json/ConsolePagesPortlets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/json/GenerateJSON.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/json/GenerateJSON.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/json/JConsoleInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/json/JConsoleInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/json/JsonISODateSerializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/json/JsonISODateSerializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/json/PortletRegistry.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/json/PortletRegistry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/json/ServiceResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/json/ServiceResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/json/UserConsole.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/json/UserConsole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/keywords/volatil/VolatileTest$ChangeListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/keywords/volatil/VolatileTest$ChangeListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/keywords/volatil/VolatileTest$ChangeMaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/keywords/volatil/VolatileTest$ChangeMaker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/keywords/volatil/VolatileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/keywords/volatil/VolatileTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lambda/Executable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lambda/Executable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lambda/ExecutableWithParameters.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lambda/ExecutableWithParameters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lambda/Lambda$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lambda/Lambda$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lambda/Lambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lambda/Lambda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lambda/LambdaWithParameters$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lambda/LambdaWithParameters$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lambda/LambdaWithParameters.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lambda/LambdaWithParameters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lambda/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lambda/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lambda/RunnerWithParameters.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lambda/RunnerWithParameters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lang/ThreadLocal/ThreadLocal1$MyRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lang/ThreadLocal/ThreadLocal1$MyRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lang/ThreadLocal/ThreadLocal1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lang/ThreadLocal/ThreadLocal1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lang/string/StringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lang/string/StringTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lang/thread/DaemonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lang/thread/DaemonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lang/thread/IllgealThreadStateExceptionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lang/thread/IllgealThreadStateExceptionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lang/thread/MainAndMyThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lang/thread/MainAndMyThreadTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lang/thread/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lang/thread/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lang/thread/MyThreadClassWithNoOverrideRunMethodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lang/thread/MyThreadClassWithNoOverrideRunMethodTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lang/thread/OverrideAndOverloadRunMethodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lang/thread/OverrideAndOverloadRunMethodTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lang/thread/OverrideAndOverloadRunMethodThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lang/thread/OverrideAndOverloadRunMethodThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lang/thread/OverrideThreadClassStartMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lang/thread/OverrideThreadClassStartMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lang/thread/OverrideThreadClassStartMethodThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lang/thread/OverrideThreadClassStartMethodThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lang/thread/WorkerThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lang/thread/WorkerThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/libraries/jackson/AnnoationVsNoAnnotation/AlbumsFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/libraries/jackson/AnnoationVsNoAnnotation/AlbumsFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/libraries/jackson/AnnoationVsNoAnnotation/DataBindingFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/libraries/jackson/AnnoationVsNoAnnotation/DataBindingFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/libraries/jackson/AnnoationVsNoAnnotation/Dataset.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/libraries/jackson/AnnoationVsNoAnnotation/Dataset.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/math/BigInteger/BigIntegerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/math/BigInteger/BigIntegerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/w3c/dom/DOM1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/w3c/dom/DOM1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/performanceMonitoring/jconsole/DeadlockAnalysisUsingJConsole$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/performanceMonitoring/jconsole/DeadlockAnalysisUsingJConsole$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/performanceMonitoring/jconsole/DeadlockAnalysisUsingJConsole$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/performanceMonitoring/jconsole/DeadlockAnalysisUsingJConsole$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/performanceMonitoring/jconsole/DeadlockAnalysisUsingJConsole.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/performanceMonitoring/jconsole/DeadlockAnalysisUsingJConsole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/progammr/ConvertLowerToUpper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/progammr/ConvertLowerToUpper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/regularExpressions/TestRegex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/regularExpressions/TestRegex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/runtime/TestRunTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/runtime/TestRunTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/securityAndCrypto/SimpleSymmetricKeyEncryptOrDecrypt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/securityAndCrypto/SimpleSymmetricKeyEncryptOrDecrypt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/serializeAndDeserialize/jacksonCore/UTF8JsonGeneratorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/serializeAndDeserialize/jacksonCore/UTF8JsonGeneratorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/streams/TestStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/streams/TestStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/AAPaginationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/AAPaginationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/CalculateFixedFee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/CalculateFixedFee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/Hw5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Hw5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/SimpleNullCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/SimpleNullCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/SumReversePalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/SumReversePalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/TestIA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/TestIA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/TestIB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/TestIB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/TestIC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/TestIC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testing/IHSScrollbarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/testing/IHSScrollbarTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/text/SimpleDateFormatTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/text/SimpleDateFormatTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tryCatchFinally/TryCatchFinally.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tryCatchFinally/TryCatchFinally.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/ArrayList/TestArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/ArrayList/TestArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/HashMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/HashMapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/Iterator/TestIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/Iterator/TestIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/LinkedList/LinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/LinkedList/LinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/LinkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/LinkedList/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/LinkedList/LinkedListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/LinkedList/LinkedListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/LinkedList/ReverseALinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/LinkedList/ReverseALinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/Locale/Locale_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/Locale/Locale_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/Locale/ManualIndonesianLocaleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/Locale/ManualIndonesianLocaleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/NavigableSet/Ques02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/NavigableSet/Ques02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/Runnable/TestRunnable$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/Runnable/TestRunnable$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/Runnable/TestRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/Runnable/TestRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/String/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/String/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/comparator/ComparableVsComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/comparator/ComparableVsComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/comparator/Fruit$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/comparator/Fruit$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/comparator/Fruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/comparator/Fruit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/comparator/FruitNameComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/comparator/FruitNameComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/concurrent/atomic/atomicinteger/program1/JavaAtomic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/concurrent/atomic/atomicinteger/program1/JavaAtomic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/concurrent/atomic/atomicinteger/program1/ProcessingThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/concurrent/atomic/atomicinteger/program1/ProcessingThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/concurrent/atomic/atomicinteger/program1/ProcessingThreadAtomicInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/concurrent/atomic/atomicinteger/program1/ProcessingThreadAtomicInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/concurrent/callable/AsynchronousProcessingWithExecutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/concurrent/callable/AsynchronousProcessingWithExecutor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/concurrent/callable/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/concurrent/callable/Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/concurrent/callable/TestTimeOutWithExecutorService$LogEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/concurrent/callable/TestTimeOutWithExecutorService$LogEvent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/concurrent/callable/TestTimeOutWithExecutorService$MonitorExecutionTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/concurrent/callable/TestTimeOutWithExecutorService$MonitorExecutionTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/concurrent/callable/TestTimeOutWithExecutorService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/concurrent/callable/TestTimeOutWithExecutorService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/concurrent/callable/TestTimeout.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/concurrent/callable/TestTimeout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/GenerateXLSFromProperties$AAFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utilities/GenerateXLSFromProperties$AAFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/GenerateXLSFromProperties$AAServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utilities/GenerateXLSFromProperties$AAServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/GenerateXLSFromProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utilities/GenerateXLSFromProperties.class" afterDir="false" />
     </list>
-    <ignored path="practiceprograms.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/practiceprograms$ImagePublisher__1_.coverage" NAME="ImagePublisher (1) Coverage Results" MODIFIED="1489689259110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>javax.jws.jAXWSAttachmentWithMTOM.mkyong.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/practiceprograms$UTF8JsonGeneratorTest.coverage" NAME="UTF8JsonGeneratorTest Coverage Results" MODIFIED="1497464635546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>serializeAndDeserialize.jacksonCore.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/practiceprograms$ImageClient.coverage" NAME="ImageClient Coverage Results" MODIFIED="1489106314325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>javax.mtom.jAXWSAttachmentWithMTOM.mkyong.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/practiceprograms$ImagePublisher.coverage" NAME="ImagePublisher Coverage Results" MODIFIED="1489101097538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>javax.mtom.jAXWSAttachmentWithMTOM.mkyong.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/practiceprograms$IllgealThreadStateExceptionTest.coverage" NAME="IllgealThreadStateExceptionTest Coverage Results" MODIFIED="1487791324052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>lang.thread.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/practiceprograms$MongoClientTest.coverage" NAME="MongoClientTest Coverage Results" MODIFIED="1485389744889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>database.mongodb.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/practiceprograms$DocumentEncoded.coverage" NAME="DocumentEncoded Coverage Results" MODIFIED="1489614059817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>javax.jws.whichStyleOfWSDLShouldIUse.document.encoded.*</FILTER>
-    </SUITE>
-  </component>
-  <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="DatabaseView">
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_TABLE_DETAILS" value="true" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-  </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="FavoritesManager">
-    <favorites_list name="practiceprograms" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IHSScrollbarTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testing/IHSScrollbarTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestFile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/File/TestFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/model/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding>
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#701#702#0" expanded="true" />
-                <element signature="e#731#732#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/model/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/util/String/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UTF8JsonGeneratorTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/serializeAndDeserialize/jacksonCore/UTF8JsonGeneratorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/TestClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -166,1134 +233,115 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/text/SimpleDateFormatTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/crypto/md5/SHAHashingExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/database/mongodb/mongoclient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/database/mongodb/MongoClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/database/mongodb/MongoClientTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lang/thread/ThreadStart.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lang/thread/TestOverrideAndOverloadRunMethod.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lang/thread/ChildThreadClassWithNoOverrideRunMethod.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lang/thread/MyThreadClassWithNoOverrideRunMethodTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lang/thread/OverrideAndOverloadRunMethodTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lang/thread/MainAndChildThreadTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lang/thread/MainAndMyThreadTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lang/thread/OverrideThreadClassStartMethod.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lang/thread/IllgealThreadStateExceptionTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javax/mtom/JAXWSAttachmentWithMTOM/JAXWSAttachmentWithMTOM.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javax/mtom/jAXWSAttachmentWithMTOM/vogella/ImageServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javax/mtom/jAXWSAttachmentWithMTOM/JAXWSAttachmentWithMTOM.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javax/mtom/jAXWSAttachmentWithMTOM/mkyong/ImagePublisher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javax/mtom/jAXWSAttachmentWithMTOM/mkyong/ImageClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javax/javaWebServiceClientVIAwsimportTool/ImageServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javax/javaWebServiceClientVIAwsimportTool/javax/mtom/jaxwsattachmentwithmtom/mkyong/ImageServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javax/mtom/jAXWSAttachmentWithMTOM/mkyong/ImageServerImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javax/mtom/jAXWSAttachmentWithMTOM/mkyong/ImageServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javax/jws/jAXWSAttachmentWithMTOM/mkyong/ImageServer.java" />
-        <option value="$PROJECT_DIR$/target/classes/javax/jws/java2wsdl/jaxws/MyMethodResponse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javax/jws/java2wsdl/FirstService.java" />
-        <option value="$PROJECT_DIR$/target/classes/FirstServiceService_schema1.xsd" />
-        <option value="$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/rpc/RPCEncoded.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/rpc/RPCLiteral.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/document/DocumentLiteral.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/document/DocumentEncoded.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/document/literal/DocumentLiteral.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/rpc/encoded/RPCEncoded.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/rpc/literal/RPCLiteral.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/document/encoded/DocumentEncoded.class" />
-        <option value="$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/document/encoded/javax/jws/whichStyleOfWSDLShouldIUse/document/encoded/jaxws/MyMethod.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/document/encoded/DocumentEncoded.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javax/jws/jAXWSAttachmentWithMTOM/mkyong/ImageClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/generics/Generics.java" />
-        <option value="$PROJECT_DIR$/src/main/java/util/Iterator/TestIterator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/serializeAndDeserialize/jacksonCore/UTF8JsonGeneratorTest.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/749d56c8-cc7d-44ea-bb36-3ef44af87de4/console.sql" />
-        <option value="$PROJECT_DIR$/src/main/java/crypto/SHA/LearnSHA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/TestDate.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/testing/IHSScrollbarTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/src/selenium/GlassDoorInfoReadAutomator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/io/File/TestFile.java" />
-        <option value="$PROJECT_DIR$/src/main/java/util/String/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/model/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/model/Student.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JavaeeView">
-    <option name="frameworksView" value="false" />
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="LogFilters">
-    <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
-    <option name="CUSTOM_FILTER" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Bundled (Maven 3)" />
-      </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="797" />
-  </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Correctness</id>
-          </State>
-          <State>
-            <id>Gradle</id>
-          </State>
-          <State>
-            <id>Kotlin</id>
-          </State>
-          <State>
-            <id>Maven</id>
-          </State>
-          <State>
-            <id>OSGi</id>
-          </State>
-          <State>
-            <id>Probable bugsGradle</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>Android</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource ProjectPane="true" />
-      <autoscrollFromSource ProjectPane="true" />
-      <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practiceprograms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practiceprograms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PracticePrograms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practiceprograms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PracticePrograms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practiceprograms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PracticePrograms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practiceprograms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PracticePrograms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practiceprograms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PracticePrograms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practiceprograms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PracticePrograms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="String" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practiceprograms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PracticePrograms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practiceprograms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PracticePrograms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jacksonCore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practiceprograms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PracticePrograms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1QQgdRRRn6T1SuOHF9y0SiRZNS0" />
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="SQL Server (Microsoft)&#10;MySQL" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MarriageBureau" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/javax/jws" />
-      <recent name="$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/rpc/literal" />
-      <recent name="$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/rpc/encoded" />
-      <recent name="$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/document/literal" />
+      <recent name="C:\Users\srapolu\Google Drive\Swathi\Workspace\PracticePrograms\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration default="false" name="TestFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LongestSubString">
+    <configuration name="BigIntSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.BigIntSum" />
+      <module name="practiceprograms" />
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.File.*" />
+          <option name="PATTERN" value="leetcode.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="io.File.TestFile" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="practiceprograms" />
-      <envs />
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="false" name="UTF8JsonGeneratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+    <configuration name="Isomorphic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.Isomorphic" />
+      <module name="practiceprograms" />
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="serializeAndDeserialize.jacksonCore.*" />
+          <option name="PATTERN" value="leetcode.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="serializeAndDeserialize.jacksonCore.UTF8JsonGeneratorTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="practiceprograms" />
-      <envs />
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="false" name="LearnSHA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+    <configuration name="LongestSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.LongestSubString" />
+      <module name="practiceprograms" />
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="crypto.SHA.*" />
+          <option name="PATTERN" value="leetcode.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="crypto.SHA.LearnSHA" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="practiceprograms" />
-      <envs />
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="false" name="GlassDoorInfoReadAutomator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+    <configuration name="NonDecreasing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.NonDecreasing" />
+      <module name="practiceprograms" />
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.selenium.*" />
+          <option name="PATTERN" value="leetcode.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="src.selenium.GlassDoorInfoReadAutomator" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="practiceprograms" />
-      <envs />
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+    <configuration name="ThirdMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.ThirdMaximum" />
+      <module name="practiceprograms" />
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="util.String.*" />
+          <option name="PATTERN" value="leetcode.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="util.String.Test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="practiceprograms" />
-      <envs />
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
-      <deployment />
-      <server-settings />
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="GAPID_DISABLE_PCS" value="false" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="GAPID_DISABLE_PCS" value="false" />
-      </Profilers>
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="false" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://" />
-      <option name="usbDebugPort" value="7936" />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="passParentEnv" value="true" />
-      <setting name="launchBrowser" value="true" />
-      <setting name="depsClasspath" value="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="practiceprograms" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
-      <method />
-    </configuration>
-    <configuration default="false" name="Tomcat856" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat856" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="UPDATING_POLICY" value="restart-server" />
-      <deployment />
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_practiceprograms" />
-      </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="53747" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method />
-    </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat856" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TestFile" />
-      <item index="2" class="java.lang.String" itemvalue="Application.UTF8JsonGeneratorTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.LearnSHA" />
-      <item index="4" class="java.lang.String" itemvalue="Application.GlassDoorInfoReadAutomator" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Test" />
-    </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestFile" />
-        <item index="2" class="java.lang.String" itemvalue="Application.GlassDoorInfoReadAutomator" />
-        <item index="3" class="java.lang.String" itemvalue="Application.LearnSHA" />
-        <item index="4" class="java.lang.String" itemvalue="Application.UTF8JsonGeneratorTest" />
+      <list>
+        <item itemvalue="Application.LongestSubString" />
+        <item itemvalue="Application.Isomorphic" />
+        <item itemvalue="Application.ThirdMaximum" />
+        <item itemvalue="Application.NonDecreasing" />
+        <item itemvalue="Application.BigIntSum" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8b44b0bd-27be-4da0-802c-95644e94470b" name="Default" comment="" />
-      <created>1481831908573</created>
+      <changelist id="a6080863-6f95-4a57-a56e-c9ba83097f45" name="Default Changelist" comment="" />
+      <created>1567718658036</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1481831908573</updated>
-      <workItem from="1481831909814" duration="2347000" />
-      <workItem from="1482260828023" duration="595000" />
-      <workItem from="1485380159303" duration="2859000" />
-      <workItem from="1485543507058" duration="1929000" />
-      <workItem from="1487292605262" duration="9589000" />
-      <workItem from="1488241719648" duration="6510000" />
-      <workItem from="1488571483286" duration="552000" />
-      <workItem from="1488572047165" duration="104000" />
-      <workItem from="1489088312977" duration="8157000" />
-      <workItem from="1489104179156" duration="8309000" />
-      <workItem from="1489179938813" duration="2502000" />
-      <workItem from="1489434148565" duration="23485000" />
-      <workItem from="1490983970165" duration="310000" />
-      <workItem from="1494440848442" duration="1366000" />
-      <workItem from="1494447652029" duration="1711000" />
-      <workItem from="1494883416641" duration="1631000" />
-      <workItem from="1494969129496" duration="5024000" />
-      <workItem from="1495652650239" duration="8000" />
-      <workItem from="1495732823475" duration="237000" />
-      <workItem from="1495837313304" duration="262000" />
-      <workItem from="1496731944845" duration="725000" />
-      <workItem from="1496786444008" duration="11892000" />
-      <workItem from="1497895808867" duration="509000" />
-      <workItem from="1498499207916" duration="3446000" />
-      <workItem from="1498716889571" duration="494000" />
-      <workItem from="1499722054195" duration="2721000" />
-      <workItem from="1499729997714" duration="4864000" />
-      <workItem from="1499987977925" duration="778000" />
-      <workItem from="1500016611127" duration="1043000" />
-      <workItem from="1500084195973" duration="493000" />
-      <workItem from="1500313206717" duration="1065000" />
-      <workItem from="1501179195217" duration="449000" />
-      <workItem from="1501696777787" duration="542000" />
-      <workItem from="1501712237681" duration="3106000" />
-      <workItem from="1501793361245" duration="261000" />
-      <workItem from="1502590423306" duration="312000" />
-      <workItem from="1506695489358" duration="1482000" />
+      <updated>1567718658036</updated>
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111669000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
-    <editor active="false" />
-    <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287144" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3240059" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3125926" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32740742" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4064801" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25679544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13090129" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964131" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4742268" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32832617" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2888889" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32666665" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2312187" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287144" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904148" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42222223" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32546496" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -1301,603 +349,97 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/crypto/md5/SHAHashingExample.java</url>
-          <line>20</line>
-          <properties />
+          <url>file://$PROJECT_DIR$/src/main/java/primitivesAndCasting/Precision.java</url>
+          <line>6</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/database/mongodb/MongoClientTest.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/easy/Palindrome.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lang/thread/OverrideAndOverloadRunMethodTest.java</url>
-          <line>7</line>
-          <properties />
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/easy/Palindrome.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/easy/Palindrome.java</url>
+          <line>23</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lang/thread/OverrideAndOverloadRunMethodTest.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="9" />
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/easy/BigIntSum.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lang/thread/IllgealThreadStateExceptionTest.java</url>
-          <line>7</line>
-          <properties />
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/easy/BigIntSum.java</url>
+          <line>30</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/javax/jws/jAXWSAttachmentWithMTOM/mkyong/ImageClient.java</url>
-          <line>36</line>
-          <properties />
-          <option name="timeStamp" value="12" />
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/easy/BigIntSum.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/javax/jws/jAXWSAttachmentWithMTOM/mkyong/ImageClient.java</url>
-          <line>32</line>
-          <properties />
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/javax/jws/jAXWSAttachmentWithMTOM/mkyong/ImageServerImpl.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/javax/jws/jAXWSAttachmentWithMTOM/mkyong/ImageClient.java</url>
-          <line>24</line>
-          <properties />
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/easy/NonDecreasing.java</url>
+          <line>34</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/util/Iterator/TestIterator.java</url>
-          <line>31</line>
-          <properties />
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/io/File/TestFile.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/easy/NonDecreasing.java</url>
           <line>12</line>
-          <properties />
-          <option name="timeStamp" value="23" />
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.8.8/jackson-core-2.8.8.jar!/com/fasterxml/jackson/core/base/GeneratorBase.class</url>
-          <line>219</line>
-          <properties />
-          <option name="timeStamp" value="25" />
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/easy/ThirdMaximum.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/serializeAndDeserialize/jacksonCore/UTF8JsonGeneratorTest.java</url>
-          <line>31</line>
-          <properties />
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/easy/ThirdMaximum.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/easy/Isomorphic.java</url>
+          <line>13</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.8.8/jackson-core-2.8.8.jar!/com/fasterxml/jackson/core/JsonFactory.class</url>
-          <line>259</line>
-          <properties />
-          <option name="timeStamp" value="29" />
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/easy/Isomorphic.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/crypto/SHA/LearnSHA.java</url>
-          <line>44</line>
-          <properties />
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/easy/Isomorphic.java</url>
+          <line>30</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/src/selenium/GlassDoorInfoReadAutomator.java</url>
-          <line>11</line>
-          <properties />
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/easy/LongestSubString.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/easy/LongestSubString.java</url>
+          <line>24</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/model/Person.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/model/Person.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="40" />
     </breakpoint-manager>
-    <watches-manager />
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/document/literal/DocumentLiteral.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/rpc/encoded/RPCEncoded.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/rpc/literal/RPCLiteral.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/document/encoded/autoGenerated/DocumentEncodedService_schema1.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/document/encoded/autoGenerated/DocumentEncodedService.wsdl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/document/encoded/autoGeneartedWithJava2WsdlPlugin/DocumentEncoded.wsdl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javax/javaWebServiceClientVIAwsimportTool/Java web wervice client from wsimport tool .png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javax/jws/java2wsdl/FirstService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javax/jws/java2wsdl/FirstService.wsdl" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/javax/jws/java2wsdl/FirstService.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javax/jws/java2wsdl/FirstServiceService.wsdl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/document/encoded/DocumentEncoded.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javax/jws/jAXWSAttachmentWithMTOM/JAXWSAttachmentWithMTOM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/document/literal/DocumentLiteral.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javax/jws/jAXWSAttachmentWithMTOM/mkyong/ImageServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/document/literal/autoGenerated/DocumentLiteralService.wsdl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javax/jws/whichStyleOfWSDLShouldIUse/document/literal/autoGenerated/DocumentLiteralService_schema1.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javax/jws/jAXWSAttachmentWithMTOM/mkyong/ImageServerImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javax/jws/jAXWSAttachmentWithMTOM/mkyong/ImageClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="23" column="62" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javax/jws/jAXWSAttachmentWithMTOM/mkyong/ImagePublisher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/generics/Generics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_05.jdk/Contents/Home/src.zip!/java/io/FileSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_05.jdk/Contents/Home/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1223">
-          <caret line="279" column="25" selection-start-line="279" selection-start-column="13" selection-end-line="279" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="77" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="168" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_05.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="944" column="18" selection-start-line="944" selection-start-column="18" selection-end-line="944" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_05.jdk/Contents/Home/src.zip!/java/io/UnixFileSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="88" column="32" selection-start-line="88" selection-start-column="23" selection-end-line="88" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/Iterator/TestIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.8.8/jackson-core-2.8.8.jar!/com/fasterxml/jackson/core/JsonGenerator.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1330">
-          <caret line="614" column="37" selection-start-line="614" selection-start-column="37" selection-end-line="614" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.8.8/jackson-core-2.8.8.jar!/com/fasterxml/jackson/core/base/GeneratorBase.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="221" column="32" selection-start-line="221" selection-start-column="20" selection-end-line="221" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.8.8/jackson-core-2.8.8.jar!/com/fasterxml/jackson/core/TreeCodec.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.8.8/jackson-core-2.8.8.jar!/com/fasterxml/jackson/core/ObjectCodec.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.4.4/jackson-databind-2.4.4.jar!/com/fasterxml/jackson/databind/MappingJsonFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.8.8/jackson-core-2.8.8.jar!/com/fasterxml/jackson/core/sym/CharsToNameCanonicalizer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-catalina/7.0.16/tomcat-catalina-7.0.16.jar!/org/apache/catalina/util/CharsetMapperDefault.properties" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/catalina/6.0.26/catalina-6.0.26.jar!/org/apache/catalina/util/HexUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.8.8/jackson-core-2.8.8.jar!/com/fasterxml/jackson/core/JsonFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2970">
-          <caret line="259" column="0" selection-start-line="259" selection-start-column="0" selection-end-line="259" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.4.4/jackson-databind-2.4.4.jar!/com/fasterxml/jackson/databind/ObjectMapper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20265">
-          <caret line="1480" column="0" selection-start-line="1480" selection-start-column="0" selection-end-line="1480" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/749d56c8-cc7d-44ea-bb36-3ef44af87de4/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2460">
-          <caret line="164" column="50" selection-start-line="164" selection-start-column="50" selection-end-line="164" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/crypto/md5/MD5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/crypto/SHA/LearnSHA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1677#1678#0" expanded="false" />
-            <element signature="e#1711#1712#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/TestDate.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/TestClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/src/selenium/GlassDoorInfoReadAutomator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testing/IHSScrollbarTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/File/TestFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/serializeAndDeserialize/jacksonCore/UTF8JsonGeneratorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#701#702#0" expanded="true" />
-            <element signature="e#731#732#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/String/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>practiceprograms</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: cglib:cglib-nodep:2.1_3</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

@@ -5,7 +5,7 @@ import java.util.Set;
 public class MinDominoRotations {
 	int[] top = {2,1,2,4,2,2};
 	int[] bottom = {5,2,6,2,3,2};
-	Set<Integer> rotations = new SortedSet<Integer>();
+	//Set<Integer> rotations = new SortedSet<Integer>();
 
 	public static void main(String[] args) {
 		
@@ -33,7 +33,7 @@ public class MinDominoRotations {
 				return isEqual;
 			}else {
 				isEqual = true;
-				rotations ++;
+				//rotations ++;
 			}
 		}
 		return isEqual;

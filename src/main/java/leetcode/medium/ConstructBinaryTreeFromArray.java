@@ -6,8 +6,8 @@ public class ConstructBinaryTreeFromArray {
 		ConstructBinaryTreeFromArray cb = new ConstructBinaryTreeFromArray();
 		int[] preOrder = {3,9,20,15,7};
 		
-		TreeNode treeNode = new TreeNode();
-		cb.createBinaryTreeFromPreOrderTraversal(preOrder);
+		//TreeNode treeNode = new TreeNode();
+		//cb.createBinaryTreeFromPreOrderTraversal(preOrder);
 
 	}
 	

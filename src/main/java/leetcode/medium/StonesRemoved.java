@@ -13,7 +13,7 @@ public class StonesRemoved {
 
 }
 
-//
+/*
 Solve usig graph
 
 
@@ -26,4 +26,4 @@ sol-3: Union Find Algorithm:
 	
 	dictionary for each stone. Start of with each stone as its own parent
 	
-	
+*/

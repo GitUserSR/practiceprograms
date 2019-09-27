@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class UserInputUtil<T> {
 	
 	
-	
+	/*
 	public static <T> T[] readInputArray() {
 		Scanner in = new Scanner(System.in);
 		System.out.println("Enter array size: ");
@@ -25,4 +25,5 @@ public class UserInputUtil<T> {
 	public static <T> T[] createArray(T inputType, int size){
 		return (T[])Array.newInstance(inputType.getClass(), size);
 	}
+	*/
 }

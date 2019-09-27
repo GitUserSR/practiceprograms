@@ -24,8 +24,9 @@ public class RemoveLinkedListElements {
 		 for(int i=0; i<input.length; i++) {
 			 ListNode node = new ListNode(input[i]);
 		 }
-		 this.next = next;
-	 }
+		// this.next = next;
+		return null;
+	}
     public static ListNode removeElements(ListNode head, int val) {
 		if(head != null && head.val == val) {
 			head = head.next;

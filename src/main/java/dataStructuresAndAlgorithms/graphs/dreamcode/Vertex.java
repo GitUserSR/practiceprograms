@@ -12,9 +12,9 @@ public class Vertex {
 	}
 	
 	public void addNeighbor(Edge edge) {
-		if(this.neighborhood.contains(o)) {
+		/*if(this.neighborhood.contains(o)) {
 			
-		}
+		}*/
 	}
 	
 	public ArrayList<Edge> getNeighborhood() {

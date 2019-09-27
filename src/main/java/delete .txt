@@ -1,0 +1,223 @@
+
+NodeJs is used by CLI to bundle and optimize project. npm is used to manage dependencies in the project.
+npm install -g @angular/cli
+ng new my-dream-app
+cd my-dream-app
+ng serve
+Installs bootstrap in package locally using, npm install --save bootstrap@3. Then edit angular.json, architect >> build >> styles "node_modules/bootstrap/dist/css/bootstarp.min.css"
+
+595555979
+swathi 595560215
+
+
+Components and Databinding
+Directives
+Services and Dependency Injection
+Routing
+Observerables
+Forms
+Pipes
+Http
+Authentication
+Optimization&NagModules
+Deployment
+Animations & Testing
+
+TypeScript:
+	More features than Vanilla JS (egTypes, Classes, Interfaces)
+	TypeScript compiled to JavaScript (CLI takes cares of coverion)
+
+
+Angular is a framework which is used to create Single Page Applications. Index.html file is servered.
+app.component.ts file cotains selector used. app.component.html contains html served.
+main.ts is the first file that gets executed.
+
+Component:
+@Component decorator is used to define a Component
+$> ng generate component server
+creates Server folder with server.component.css,server.component.ts, server.component.html files
+emmet is a plugin for many popular text editots which greatly improves HTML & CSS workflow. NO need to type entire <div class=".container> </div>
+Just typing .container, gives a emmet suggestion to auto generate code
+
+TODO: ng-bootstrap or ngx-bootstrap https://www.techiediaries.com/angular-bootstrap/
+
+14 weeks -
+week 3 - 10 weeks,
+
+https://www.geeksforgeeks.org/ways-to-read-input-from-console-in-java/
+https://classroom.udacity.com/courses/ud867/lessons/3968239469/concepts/42963752800923
+
+877 238 4373
+
+800 480 3287 - disability
+disabol >> BPO >> register as new user
+
+Anathi
+Aavya
+Aadya godess parvathi
+Aadhya beginning
+Charvi
+Chaitra
+Daksha Earth, wife of lord shiva, skilled
+Lakshya
+Leya
+Loukya goddess lakshmi
+Medha godess saraswathi
+Mukta
+Nidhi
+Vanya
+
+https://en.wikipedia.org/wiki/Nearest_neighbour_algorithm
+
+orm tool to persist data
+iBatis
+TopLink
+
+evry
+A Automocity, C Consistency, I, D Durability
+
+https://www.youtube.com/watch?v=nl3-XaV8X4A
+
+
+
+DFS, BFS ?? 
+Sum oF Left Leaves ...not left nodes
+InOrder traversal, left leaf and not left child
+Use BFS to solve this problem
+
+Leetcode 124
+
+FMLA bonding - 1866 277 5276 41447 (Jamie)
+
+Nathan 41516
+
+file for california bonding leave
+
+
+Full time with Vitusa - First Data Corporation 
+115 - A  - 140 
+W2 - Paid vacation - 70-80 per hour 
+
+iTrade
+
+https://www.youtube.com/watch?v=3hgYHXDVh-o
+
+connect with https://www.linkedin.com/in/debrablau/
+
+
+I am panning to take 4 weeks of bonding leave
+
+https://www.pramp.com/dashboard#/
+https://www.hackerrank.com/dashboard
+
+micro services, rest vs soap
+
+90-100
+90 Corp to Corp
+
+I am excited by your company's vision and look forward to speaking with you about this role.
+
+Hello Dr.Barot
+
+I am feeling low, getting angry fast, anxiety, crying, not able to focus and not feeling good to talk with anyone.  
+I am not feeling good about myself. I am feeling I am not ready to go back to work.
+Feeling okay with baby and other works around home. But internally I feel I am not right. 
+It started around 2 weeks back and still not feeling better, thought it would get better with time. 
+But I feel it is only increasing with time.
+
+Anger
+Anxiety to get things done and tasks getting piled up, causing frustration and anger
+Less foucs because my mind keeps wandering here and there. Pumping baby stuff etc
+
+Tuesday 11-12 AM
+postpatrum group 1900 homestead rd, cupertino, 2nd floor 408 366 4400
+tantur avenue
+
+San Jose unit-408 972 3095
+
+
+https://www.getfreedumps.com/pg.php?id=4610
+https://enthuware.com/java-certification-mock-exams/oracle-certified-associate/ocp-java-11-exam-i-1z0-815
+
+817 907 8989
+
+Swathi, Principal Level Java Developmnet 
+
+git push https://GitUserSR:Pwd4GitHub@github.com/GitUserSR/PracticePrograms.git master
+
+https://github.com/GitUserSR/PracticePrograms.git
+
+https://www.quora.com/What-is-the-best-way-to-learn-algorithms-I-want-to-prepare-for-a-Google-interview-and-I-am-willing-to-spend-all-of-my-free-time-learning
+
+Hi,
+
+
+Thanks for reaching out to me. I would be definitely interested to learn more about exciting job opportunities. I can be reached at 4083209422, please leave a voice message just in case I miss the call. 
+
+Thanks,
+Swathi
+
+Thanks for reaching out to me. I would be definitely interested to learn more about this job opportunity. I can be reached at 4083209422, please leave a voice message just in case I miss the call. 
+
+Thanks,
+Swathi
+
+This is a programming test
+To get familiarized with our coding environment, try our Sample Test
+You are free to choose any language from the list and code
+If the code area contains the function signature, just complete the function alone, we'll take care of the main function, headers, etc
+If you're expected to write the full code, it'd be mentioned in the code area. All inputs are from STDIN and output to STDOUT. If you're using Java, use the classname as 'Solution'
+To understand more about the environment, time limits, etc. you can read the FAQ here
+In coding questions, you can print to console to debug your code using the appropriate print command for each language (Eg: cout for C++, printf for C, etc.)
+
+
+Travis Depuy,xMatters,https://www.xmatters.com/free
+
+Individual Contribtor responsible for APIs in a Scrum team of 8. Includes implementing API's right from inception to deployment. 
+
+Informational Questions:
+
+
+https://javarevisited.blogspot.com/2018/07/10-object-oriented-design-principles.html
+
+What is the best part about working with ** ?
+What are most challenging aspects of this job ?
+What skills are most important for someone trying to get into this field ?
+
+Best fit
+
+Read about your company little bit but would be able to explain little more.
+Companies use Carta to manage their equity, assets, and investor communications and investors use Carta to manage their portfolio.
+
+What you want in new job ?
+
+Looking for a company I can go with it
+
+Why leaving current job ?
+
+
+Why Carta ?
+Have interest in FinTech and wants to get into it. 
+At one point even wanted to give my CFA :)
+
+Senior Director of Engineering
+
+
+Typical background of engineer team in CARTA ? How long is the ramp up time
+
+coding practices
+
+
+Understand the job requiremnets and prepare for them
+
+
+https://javarevisited.blogspot.com/2018/07/10-object-oriented-design-principles.html
+
+KK Java Tutorial - Hibernate
+https://javasearch.buggybread.com/InterviewQuestions/questionSearch.php
+https://snowdream.github.io/115-Java-Interview-Questions-and-Answers/115-Java-Interview-Questions-and-Answers/en/collections.html
+https://www.linkedin.com/learning/java-memory-management/exercise-walkthrough
+
+
+https://hired.com/blog/candidates/19-phone-interview-tips-get-hired/
+https://java2blog.com/data-structure-and-algorithm-interview-questions-in-java/

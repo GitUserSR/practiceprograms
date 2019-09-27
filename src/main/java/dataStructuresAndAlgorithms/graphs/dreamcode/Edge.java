@@ -9,7 +9,7 @@ public class Edge implements Comparable<Edge>{
 	}
 	
 	public Edge(Vertex one, Vertex two, int weight) {
-		this.one =  (one.getLabel)
+		//this.one =  (one.getLabel)
 	}
 	
 	@Override
